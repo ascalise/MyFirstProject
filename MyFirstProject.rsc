@@ -3,6 +3,6 @@
 //
 Macro "MyFirstProject" 
 
-        ShowMessage("Hello" )
+        ShowMessage("Hello 2" )
 
 endMacro
